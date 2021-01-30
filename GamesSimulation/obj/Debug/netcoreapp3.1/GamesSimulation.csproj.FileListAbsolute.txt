@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\bin\Debug\netcoreapp3.1\GamesSimulation.exe
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\bin\Debug\netcoreapp3.1\GamesSimulation.deps.json
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\bin\Debug\netcoreapp3.1\GamesSimulation.runtimeconfig.json
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\bin\Debug\netcoreapp3.1\GamesSimulation.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\bin\Debug\netcoreapp3.1\GamesSimulation.dll
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\bin\Debug\netcoreapp3.1\GamesSimulation.pdb
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.dll
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.pdb
+C:\Users\Hp\Desktop\C# E.D\GamesSimulation\GamesSimulation\obj\Debug\netcoreapp3.1\GamesSimulation.genruntimeconfig.cache
